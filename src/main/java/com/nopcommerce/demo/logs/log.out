@@ -1,0 +1,193 @@
+2021-06-29 05:06:239 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 05:06:793 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 05:06:07 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 05:06:195 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 05:06:821 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 06:06:230 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 06:06:922 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 06:06:586 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 06:06:863 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 06:06:903 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 06:06:115 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 07:06:289 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 10:06:912 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 10:06:975 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 10:06:476 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 10:06:916 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 10:06:647 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 10:06:319 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (b5b9d98daf8867e1f1b728a4608931a6)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 10:06:366 INFO  LoginPage :68 - Getting text from : [[ChromeDriver: chrome on WINDOWS (b5b9d98daf8867e1f1b728a4608931a6)] -> xpath: //div[@class='page-title']//h1]
+2021-06-29 10:06:216 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 10:06:412 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (9f85465b229b6e15b21b355287fc69da)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 10:06:558 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (9f85465b229b6e15b21b355287fc69da)] -> xpath: //input[@id='Email']]
+2021-06-29 10:06:670 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (9f85465b229b6e15b21b355287fc69da)] -> xpath: //input[@id='Password']]
+2021-06-29 10:06:790 INFO  LoginPage :54 - click on Login Button [[ChromeDriver: chrome on WINDOWS (9f85465b229b6e15b21b355287fc69da)] -> xpath: //button[@class ='button-1 login-button']]
+2021-06-29 10:06:416 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 10:06:566 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 10:06:882 INFO  RegistrationPage :58 - Click on Registration Link [[ChromeDriver: chrome on WINDOWS (8b144b1595e487bf6f0f417e2ab8a294)] -> xpath: //body[1]/div[6]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]]
+2021-06-29 10:06:44 INFO  RegistrationPage :80 - Click on gender Male[[ChromeDriver: chrome on WINDOWS (8b144b1595e487bf6f0f417e2ab8a294)] -> xpath: //input[@id='gender-male']]
+2021-06-29 10:06:224 INFO  RegistrationPage :86 - Enter firstname [[ChromeDriver: chrome on WINDOWS (8b144b1595e487bf6f0f417e2ab8a294)] -> id: FirstName]
+2021-06-29 10:06:382 INFO  RegistrationPage :91 - Enter lastname [[ChromeDriver: chrome on WINDOWS (8b144b1595e487bf6f0f417e2ab8a294)] -> id: LastName]
+2021-06-29 10:06:641 INFO  RegistrationPage :97 - 
+2021-06-29 10:06:874 INFO  RegistrationPage :102 - Enter month of birth [[ChromeDriver: chrome on WINDOWS (8b144b1595e487bf6f0f417e2ab8a294)] -> xpath: //select[@name='DateOfBirthMonth']]
+2021-06-29 10:06:52 INFO  RegistrationPage :107 - 
+2021-06-29 10:06:199 INFO  RegistrationPage :112 - Enter email [[ChromeDriver: chrome on WINDOWS (8b144b1595e487bf6f0f417e2ab8a294)] -> id: Email]
+2021-06-29 10:06:390 INFO  RegistrationPage :117 - Enter password [[ChromeDriver: chrome on WINDOWS (8b144b1595e487bf6f0f417e2ab8a294)] -> id: Password]
+2021-06-29 10:06:531 INFO  RegistrationPage :122 - Enter confirmpassword [[ChromeDriver: chrome on WINDOWS (8b144b1595e487bf6f0f417e2ab8a294)] -> id: ConfirmPassword]
+2021-06-29 10:06:607 INFO  RegistrationPage :127 - click on Registration button Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='register-button']'
+2021-06-29 10:06:650 INFO  RegistrationPage :132 - verify error msg with first name empty [[ChromeDriver: chrome on WINDOWS (8b144b1595e487bf6f0f417e2ab8a294)] -> xpath: //div[@class ='result']]
+2021-06-29 11:06:732 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 11:06:826 INFO  RegistrationPage :58 - Click on Registration Link [[ChromeDriver: chrome on WINDOWS (c2bcbc79e72a1dbe6e7e02885aaea65c)] -> xpath: //body[1]/div[6]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]]
+2021-06-29 11:06:964 INFO  RegistrationPage :80 - Click on gender Male[[ChromeDriver: chrome on WINDOWS (c2bcbc79e72a1dbe6e7e02885aaea65c)] -> xpath: //input[@id='gender-male']]
+2021-06-29 11:06:114 INFO  RegistrationPage :86 - Enter firstname [[ChromeDriver: chrome on WINDOWS (c2bcbc79e72a1dbe6e7e02885aaea65c)] -> id: FirstName]
+2021-06-29 11:06:270 INFO  RegistrationPage :91 - Enter lastname [[ChromeDriver: chrome on WINDOWS (c2bcbc79e72a1dbe6e7e02885aaea65c)] -> id: LastName]
+2021-06-29 11:06:523 INFO  RegistrationPage :97 - 
+2021-06-29 11:06:745 INFO  RegistrationPage :102 - Enter month of birth [[ChromeDriver: chrome on WINDOWS (c2bcbc79e72a1dbe6e7e02885aaea65c)] -> xpath: //select[@name='DateOfBirthMonth']]
+2021-06-29 11:06:969 INFO  RegistrationPage :107 - 
+2021-06-29 11:06:142 INFO  RegistrationPage :112 - Enter email [[ChromeDriver: chrome on WINDOWS (c2bcbc79e72a1dbe6e7e02885aaea65c)] -> id: Email]
+2021-06-29 11:06:281 INFO  RegistrationPage :117 - Enter password [[ChromeDriver: chrome on WINDOWS (c2bcbc79e72a1dbe6e7e02885aaea65c)] -> id: Password]
+2021-06-29 11:06:453 INFO  RegistrationPage :122 - Enter confirmpassword [[ChromeDriver: chrome on WINDOWS (c2bcbc79e72a1dbe6e7e02885aaea65c)] -> id: ConfirmPassword]
+2021-06-29 11:06:568 INFO  RegistrationPage :127 - click on Registration button Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='register-button']'
+2021-06-29 11:06:621 INFO  RegistrationPage :132 - verify error msg with first name empty [[ChromeDriver: chrome on WINDOWS (c2bcbc79e72a1dbe6e7e02885aaea65c)] -> xpath: //div[@class ='result']]
+2021-06-29 11:06:416 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 11:06:465 INFO  RegistrationPage :58 - Click on Registration Link [[ChromeDriver: chrome on WINDOWS (a217fe2a17bb088fa9fc82312ab7b454)] -> xpath: //body[1]/div[6]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]]
+2021-06-29 11:06:617 INFO  RegistrationPage :80 - Click on gender Male[[ChromeDriver: chrome on WINDOWS (a217fe2a17bb088fa9fc82312ab7b454)] -> xpath: //input[@id='gender-male']]
+2021-06-29 11:06:785 INFO  RegistrationPage :86 - Enter firstname [[ChromeDriver: chrome on WINDOWS (a217fe2a17bb088fa9fc82312ab7b454)] -> id: FirstName]
+2021-06-29 11:06:923 INFO  RegistrationPage :91 - Enter lastname [[ChromeDriver: chrome on WINDOWS (a217fe2a17bb088fa9fc82312ab7b454)] -> id: LastName]
+2021-06-29 11:06:119 INFO  RegistrationPage :97 - 
+2021-06-29 11:06:406 INFO  RegistrationPage :102 - Enter month of birth [[ChromeDriver: chrome on WINDOWS (a217fe2a17bb088fa9fc82312ab7b454)] -> xpath: //select[@name='DateOfBirthMonth']]
+2021-06-29 11:06:623 INFO  RegistrationPage :107 - 
+2021-06-29 11:06:780 INFO  RegistrationPage :112 - Enter email [[ChromeDriver: chrome on WINDOWS (a217fe2a17bb088fa9fc82312ab7b454)] -> id: Email]
+2021-06-29 11:06:909 INFO  RegistrationPage :117 - Enter password [[ChromeDriver: chrome on WINDOWS (a217fe2a17bb088fa9fc82312ab7b454)] -> id: Password]
+2021-06-29 11:06:79 INFO  RegistrationPage :122 - Enter confirmpassword [[ChromeDriver: chrome on WINDOWS (a217fe2a17bb088fa9fc82312ab7b454)] -> id: ConfirmPassword]
+2021-06-29 11:06:25 INFO  RegistrationPage :127 - click on Registration button Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='register-button']'
+2021-06-29 11:06:56 INFO  RegistrationPage :132 - verify error msg with first name empty [[ChromeDriver: chrome on WINDOWS (a217fe2a17bb088fa9fc82312ab7b454)] -> xpath: //div[@class ='result']]
+2021-06-29 11:06:422 INFO  RegistrationPage :139 - click on logout Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='ico-logout']'
+2021-06-29 11:06:68 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (a217fe2a17bb088fa9fc82312ab7b454)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 11:06:217 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (a217fe2a17bb088fa9fc82312ab7b454)] -> xpath: //input[@id='Email']]
+2021-06-29 11:06:353 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (a217fe2a17bb088fa9fc82312ab7b454)] -> xpath: //input[@id='Password']]
+2021-06-29 11:06:474 INFO  LoginPage :54 - click on Login Button [[ChromeDriver: chrome on WINDOWS (a217fe2a17bb088fa9fc82312ab7b454)] -> xpath: //button[@class ='button-1 login-button']]
+2021-06-29 11:06:646 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 11:06:479 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (ec40031c3bc6ad2d7d40526c330bab1e)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 11:06:529 INFO  LoginPage :68 - Getting text from : [[ChromeDriver: chrome on WINDOWS (ec40031c3bc6ad2d7d40526c330bab1e)] -> xpath: //div[@class='page-title']//h1]
+2021-06-29 11:06:473 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 11:06:760 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (c9edae8bd16edcaf2605486ad15174cb)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 11:06:907 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (c9edae8bd16edcaf2605486ad15174cb)] -> xpath: //input[@id='Email']]
+2021-06-29 11:06:02 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (c9edae8bd16edcaf2605486ad15174cb)] -> xpath: //input[@id='Password']]
+2021-06-29 11:06:101 INFO  LoginPage :54 - click on Login Button [[ChromeDriver: chrome on WINDOWS (c9edae8bd16edcaf2605486ad15174cb)] -> xpath: //button[@class ='button-1 login-button']]
+2021-06-29 11:06:286 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 11:06:640 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (bc94bb9f05e9a2cacbe096a0217c8134)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 11:06:796 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (bc94bb9f05e9a2cacbe096a0217c8134)] -> xpath: //input[@id='Email']]
+2021-06-29 11:06:938 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (bc94bb9f05e9a2cacbe096a0217c8134)] -> xpath: //input[@id='Password']]
+2021-06-29 11:06:47 INFO  LoginPage :54 - click on Login Button [[ChromeDriver: chrome on WINDOWS (bc94bb9f05e9a2cacbe096a0217c8134)] -> xpath: //button[@class ='button-1 login-button']]
+2021-06-29 11:06:349 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 11:06:628 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (2157e0a7ebfaf4b4234014f449e68276)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 11:06:748 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (2157e0a7ebfaf4b4234014f449e68276)] -> xpath: //input[@id='Email']]
+2021-06-29 11:06:851 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (2157e0a7ebfaf4b4234014f449e68276)] -> xpath: //input[@id='Password']]
+2021-06-29 11:06:950 INFO  LoginPage :54 - click on Login Button [[ChromeDriver: chrome on WINDOWS (2157e0a7ebfaf4b4234014f449e68276)] -> xpath: //button[@class ='button-1 login-button']]
+2021-06-29 11:06:109 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 11:06:358 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (9fb6241e9d8de506d43f820577351ae1)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 11:06:488 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (9fb6241e9d8de506d43f820577351ae1)] -> xpath: //input[@id='Email']]
+2021-06-29 11:06:631 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (9fb6241e9d8de506d43f820577351ae1)] -> xpath: //input[@id='Password']]
+2021-06-29 11:06:706 INFO  LoginPage :54 - click on Login Button [[ChromeDriver: chrome on WINDOWS (9fb6241e9d8de506d43f820577351ae1)] -> xpath: //button[@class ='button-1 login-button']]
+2021-06-29 11:06:827 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 11:06:489 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (5d602e99cebe87aded180b642edb31ed)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 11:06:619 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (5d602e99cebe87aded180b642edb31ed)] -> xpath: //input[@id='Email']]
+2021-06-29 11:06:781 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (5d602e99cebe87aded180b642edb31ed)] -> xpath: //input[@id='Password']]
+2021-06-29 11:06:855 INFO  LoginPage :54 - click on Login Button [[ChromeDriver: chrome on WINDOWS (5d602e99cebe87aded180b642edb31ed)] -> xpath: //button[@class ='button-1 login-button']]
+2021-06-29 11:06:388 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 11:06:919 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (a29c79ca43d4c92d8c9a2650a1b90b43)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 11:06:963 INFO  LoginPage :68 - Getting text from : [[ChromeDriver: chrome on WINDOWS (a29c79ca43d4c92d8c9a2650a1b90b43)] -> xpath: //div[@class='page-title']//h1]
+2021-06-29 11:06:817 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 11:06:458 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (8ced24e2007734027505bf5f3b2aef0d)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 11:06:579 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (8ced24e2007734027505bf5f3b2aef0d)] -> xpath: //input[@id='Email']]
+2021-06-29 11:06:695 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (8ced24e2007734027505bf5f3b2aef0d)] -> xpath: //input[@id='Password']]
+2021-06-29 11:06:779 INFO  LoginPage :54 - click on Login Button [[ChromeDriver: chrome on WINDOWS (8ced24e2007734027505bf5f3b2aef0d)] -> xpath: //button[@class ='button-1 login-button']]
+2021-06-29 11:06:845 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 11:06:186 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (f0b53dff3c14047af6aff9d7e02100fc)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 11:06:307 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (f0b53dff3c14047af6aff9d7e02100fc)] -> xpath: //input[@id='Email']]
+2021-06-29 11:06:455 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (f0b53dff3c14047af6aff9d7e02100fc)] -> xpath: //input[@id='Password']]
+2021-06-29 11:06:642 INFO  LoginPage :54 - click on Login Button [[ChromeDriver: chrome on WINDOWS (f0b53dff3c14047af6aff9d7e02100fc)] -> xpath: //button[@class ='button-1 login-button']]
+2021-06-29 11:06:696 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 11:06:940 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (89fd7cd553a4f6285ded02db60e76557)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 11:06:86 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (89fd7cd553a4f6285ded02db60e76557)] -> xpath: //input[@id='Email']]
+2021-06-29 11:06:247 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (89fd7cd553a4f6285ded02db60e76557)] -> xpath: //input[@id='Password']]
+2021-06-29 11:06:407 INFO  LoginPage :54 - click on Login Button [[ChromeDriver: chrome on WINDOWS (89fd7cd553a4f6285ded02db60e76557)] -> xpath: //button[@class ='button-1 login-button']]
+2021-06-29 11:06:441 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 11:06:809 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (08af6f1b18586aeb864e89e0d76283ae)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 11:06:969 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (08af6f1b18586aeb864e89e0d76283ae)] -> xpath: //input[@id='Email']]
+2021-06-29 11:06:114 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (08af6f1b18586aeb864e89e0d76283ae)] -> xpath: //input[@id='Password']]
+2021-06-29 11:06:255 INFO  LoginPage :54 - click on Login Button [[ChromeDriver: chrome on WINDOWS (08af6f1b18586aeb864e89e0d76283ae)] -> xpath: //button[@class ='button-1 login-button']]
+2021-06-29 11:06:335 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 11:06:86 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (977e1d936fa5931f968e14c73a3788a8)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 11:06:241 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (977e1d936fa5931f968e14c73a3788a8)] -> xpath: //input[@id='Email']]
+2021-06-29 11:06:363 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (977e1d936fa5931f968e14c73a3788a8)] -> xpath: //input[@id='Password']]
+2021-06-29 11:06:456 INFO  LoginPage :54 - click on Login Button [[ChromeDriver: chrome on WINDOWS (977e1d936fa5931f968e14c73a3788a8)] -> xpath: //button[@class ='button-1 login-button']]
+2021-06-29 14:06:782 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 14:06:508 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (7f7d7658764db4ff5ff611f2177d5742)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 14:06:542 INFO  LoginPage :68 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7f7d7658764db4ff5ff611f2177d5742)] -> xpath: //div[@class='page-title']//h1]
+2021-06-29 14:06:425 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 14:06:715 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (22cf112c04d015e8647b32711f1e87af)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 14:06:821 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (22cf112c04d015e8647b32711f1e87af)] -> xpath: //input[@id='Email']]
+2021-06-29 14:06:967 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (22cf112c04d015e8647b32711f1e87af)] -> xpath: //input[@id='Password']]
+2021-06-29 14:06:63 INFO  LoginPage :54 - click on Login Button [[ChromeDriver: chrome on WINDOWS (22cf112c04d015e8647b32711f1e87af)] -> xpath: //button[@class ='button-1 login-button']]
+2021-06-29 14:06:267 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 14:06:643 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (d10090152d788e2f39c083e608189c22)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 14:06:793 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (d10090152d788e2f39c083e608189c22)] -> xpath: //input[@id='Email']]
+2021-06-29 14:06:958 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (d10090152d788e2f39c083e608189c22)] -> xpath: //input[@id='Password']]
+2021-06-29 14:06:84 INFO  LoginPage :54 - click on Login Button [[ChromeDriver: chrome on WINDOWS (d10090152d788e2f39c083e608189c22)] -> xpath: //button[@class ='button-1 login-button']]
+2021-06-29 14:06:247 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 14:06:730 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (83c83d3094e364d74f8b749a4172ab45)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 14:06:842 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (83c83d3094e364d74f8b749a4172ab45)] -> xpath: //input[@id='Email']]
+2021-06-29 14:06:937 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (83c83d3094e364d74f8b749a4172ab45)] -> xpath: //input[@id='Password']]
+2021-06-29 14:06:50 INFO  LoginPage :54 - click on Login Button [[ChromeDriver: chrome on WINDOWS (83c83d3094e364d74f8b749a4172ab45)] -> xpath: //button[@class ='button-1 login-button']]
+2021-06-29 14:06:84 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 14:06:442 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (9542a467eb9610af8215b356d52c1f30)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 14:06:598 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (9542a467eb9610af8215b356d52c1f30)] -> xpath: //input[@id='Email']]
+2021-06-29 14:06:746 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (9542a467eb9610af8215b356d52c1f30)] -> xpath: //input[@id='Password']]
+2021-06-29 14:06:919 INFO  LoginPage :54 - click on Login Button [[ChromeDriver: chrome on WINDOWS (9542a467eb9610af8215b356d52c1f30)] -> xpath: //button[@class ='button-1 login-button']]
+2021-06-29 14:06:55 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 14:06:275 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (dbc116e6952e3dc79b1402ef5e188ea9)] -> xpath: //a[@class ='ico-login']]
+2021-06-29 14:06:448 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (dbc116e6952e3dc79b1402ef5e188ea9)] -> xpath: //input[@id='Email']]
+2021-06-29 14:06:603 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (dbc116e6952e3dc79b1402ef5e188ea9)] -> xpath: //input[@id='Password']]
+2021-06-29 14:06:709 INFO  LoginPage :54 - click on Login Button [[ChromeDriver: chrome on WINDOWS (dbc116e6952e3dc79b1402ef5e188ea9)] -> xpath: //button[@class ='button-1 login-button']]
+2021-06-29 14:06:782 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 14:06:744 INFO  RegistrationPage :58 - Click on Registration Link [[ChromeDriver: chrome on WINDOWS (fc425810141bd5cf1ca4e16a281e8c26)] -> xpath: //body[1]/div[6]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]]
+2021-06-29 14:06:867 INFO  RegistrationPage :80 - Click on gender Male[[ChromeDriver: chrome on WINDOWS (fc425810141bd5cf1ca4e16a281e8c26)] -> xpath: //input[@id='gender-male']]
+2021-06-29 14:06:41 INFO  RegistrationPage :86 - Enter firstname [[ChromeDriver: chrome on WINDOWS (fc425810141bd5cf1ca4e16a281e8c26)] -> id: FirstName]
+2021-06-29 14:06:193 INFO  RegistrationPage :91 - Enter lastname [[ChromeDriver: chrome on WINDOWS (fc425810141bd5cf1ca4e16a281e8c26)] -> id: LastName]
+2021-06-29 14:06:401 INFO  RegistrationPage :97 - 
+2021-06-29 14:06:625 INFO  RegistrationPage :102 - Enter month of birth [[ChromeDriver: chrome on WINDOWS (fc425810141bd5cf1ca4e16a281e8c26)] -> xpath: //select[@name='DateOfBirthMonth']]
+2021-06-29 14:06:843 INFO  RegistrationPage :107 - 
+2021-06-29 14:06:16 INFO  RegistrationPage :112 - Enter email [[ChromeDriver: chrome on WINDOWS (fc425810141bd5cf1ca4e16a281e8c26)] -> id: Email]
+2021-06-29 14:06:152 INFO  RegistrationPage :117 - Enter password [[ChromeDriver: chrome on WINDOWS (fc425810141bd5cf1ca4e16a281e8c26)] -> id: Password]
+2021-06-29 14:06:324 INFO  RegistrationPage :122 - Enter confirmpassword [[ChromeDriver: chrome on WINDOWS (fc425810141bd5cf1ca4e16a281e8c26)] -> id: ConfirmPassword]
+2021-06-29 14:06:858 INFO  RegistrationPage :127 - click on Registration button Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='register-button']'
+2021-06-29 14:06:899 INFO  RegistrationPage :132 - verify error msg with first name empty [[ChromeDriver: chrome on WINDOWS (fc425810141bd5cf1ca4e16a281e8c26)] -> xpath: //div[@class ='result']]
+2021-06-29 14:06:744 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 14:06:103 INFO  RegistrationPage :58 - Click on Registration Link [[ChromeDriver: chrome on WINDOWS (ec7ad70474f31688281f1361e1983895)] -> xpath: //body[1]/div[6]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]]
+2021-06-29 14:06:235 INFO  RegistrationPage :127 - click on Registration button [[ChromeDriver: chrome on WINDOWS (ec7ad70474f31688281f1361e1983895)] -> xpath: //button[@id='register-button']]
+2021-06-29 14:06:270 INFO  RegistrationPage :73 - verify error msg with first name empty Proxy element for: DefaultElementLocator 'By.xpath: //span[@id='FirstName-error']'
+2021-06-30 11:06:904 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-30 11:06:579 INFO  RegistrationPage :58 - Click on Registration Link [[ChromeDriver: chrome on WINDOWS (16a04a3935832498595cad8cdf2302c0)] -> xpath: //body[1]/div[6]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:817 INFO  RegistrationPage :80 - Click on gender Male[[ChromeDriver: chrome on WINDOWS (16a04a3935832498595cad8cdf2302c0)] -> xpath: //input[@id='gender-male']]
+2021-06-30 11:06:33 INFO  RegistrationPage :86 - Enter firstname [[ChromeDriver: chrome on WINDOWS (16a04a3935832498595cad8cdf2302c0)] -> id: FirstName]
+2021-06-30 11:06:249 INFO  RegistrationPage :91 - Enter lastname [[ChromeDriver: chrome on WINDOWS (16a04a3935832498595cad8cdf2302c0)] -> id: LastName]
+2021-06-30 11:06:599 INFO  RegistrationPage :97 - 
+2021-06-30 11:06:902 INFO  RegistrationPage :102 - Enter month of birth [[ChromeDriver: chrome on WINDOWS (16a04a3935832498595cad8cdf2302c0)] -> xpath: //select[@name='DateOfBirthMonth']]
+2021-06-30 11:06:198 INFO  RegistrationPage :107 - 
+2021-06-30 11:06:445 INFO  RegistrationPage :112 - Enter email [[ChromeDriver: chrome on WINDOWS (16a04a3935832498595cad8cdf2302c0)] -> id: Email]
+2021-06-30 11:06:663 INFO  RegistrationPage :117 - Enter password [[ChromeDriver: chrome on WINDOWS (16a04a3935832498595cad8cdf2302c0)] -> id: Password]
+2021-06-30 11:06:875 INFO  RegistrationPage :122 - Enter confirmpassword [[ChromeDriver: chrome on WINDOWS (16a04a3935832498595cad8cdf2302c0)] -> id: ConfirmPassword]
+2021-06-30 11:06:192 INFO  RegistrationPage :127 - click on Registration button Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='register-button']'
+2021-06-30 11:06:246 INFO  RegistrationPage :132 - verify error msg with first name empty [[ChromeDriver: chrome on WINDOWS (16a04a3935832498595cad8cdf2302c0)] -> xpath: //div[@class ='result']]
+2021-06-30 11:06:821 INFO  RegistrationPage :139 - click on logout Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='ico-logout']'
+2021-06-30 11:06:163 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (16a04a3935832498595cad8cdf2302c0)] -> xpath: //a[@class ='ico-login']]
+2021-06-30 11:06:374 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (16a04a3935832498595cad8cdf2302c0)] -> xpath: //input[@id='Email']]
+2021-06-30 11:06:609 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (16a04a3935832498595cad8cdf2302c0)] -> xpath: //input[@id='Password']]
+2021-06-30 11:06:322 INFO  LoginPage :54 - click on Login Button Proxy element for: DefaultElementLocator 'By.xpath: //button[@class ='button-1 login-button']'
+2021-06-30 12:06:135 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-30 12:06:171 INFO  LoginPage :38 - click on Login link [[ChromeDriver: chrome on WINDOWS (971ba368193c74afb84b1c6b4bbc21d1)] -> xpath: //a[@class ='ico-login']]
+2021-06-30 12:06:326 INFO  LoginPage :44 - Enter Email [[ChromeDriver: chrome on WINDOWS (971ba368193c74afb84b1c6b4bbc21d1)] -> xpath: //input[@id='Email']]
+2021-06-30 12:06:466 INFO  LoginPage :49 - Enter Password [[ChromeDriver: chrome on WINDOWS (971ba368193c74afb84b1c6b4bbc21d1)] -> xpath: //input[@id='Password']]
+2021-06-30 12:06:952 INFO  LoginPage :54 - click on Login Button [[ChromeDriver: chrome on WINDOWS (971ba368193c74afb84b1c6b4bbc21d1)] -> xpath: //button[@class ='button-1 login-button']]

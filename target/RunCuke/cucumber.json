@@ -1,0 +1,161 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "comments": [
+          {
+            "line": 4,
+            "value": "#@Sanity"
+          },
+          {
+            "line": 5,
+            "value": "#  Scenario: User should navigate to longin page Successfully"
+          },
+          {
+            "line": 6,
+            "value": "#    Given I am on homepage"
+          },
+          {
+            "line": 7,
+            "value": "#    When I click on login link"
+          },
+          {
+            "line": 8,
+            "value": "#    Then I should navigate to login page successfully"
+          },
+          {
+            "line": 9,
+            "value": "#"
+          }
+        ],
+        "before": [
+          {
+            "result": {
+              "duration": 5437594900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "User should login Sucessfully with valid credentials",
+        "description": "",
+        "id": "login-test;user-should-login-sucessfully-with-valid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 1156782100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 237499200,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I am on homepage",
+            "match": {
+              "location": "RegistrationstepsDefs.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1277423000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on login link",
+            "match": {
+              "location": "LoginstepsDefs.iClickOnLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2144877200,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I enter email \"topper5@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "topper5@gmail.com",
+                  "offset": 15
+                }
+              ],
+              "location": "LoginstepsDefs.iEnterEmail(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2136703300,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I enter passwork \"prime123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "prime123",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginstepsDefs.iEnterPasswork(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 484205000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I click on login button",
+            "match": {
+              "location": "LoginstepsDefs.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 42187100,
+              "error_message": "org.junit.ComparisonFailure: expected:\u003c[Welcome to our store]\u003e but was:\u003c[About login / registration]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat com.nopcommerce.demo.stepdefs.LoginstepsDefs.iShouldLoginSucessfully(LoginstepsDefs.java:42)\r\n\tat ✽.Then I should login sucessfully(src/test/java/resources/featurefile/login.feature:17)\r\n",
+              "status": "failed"
+            },
+            "line": 17,
+            "name": "I should login sucessfully",
+            "match": {
+              "location": "LoginstepsDefs.iShouldLoginSucessfully()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 10,
+            "name": "@Sanity"
+          }
+        ]
+      }
+    ],
+    "name": "Login Test",
+    "description": "As a User I want to login into nop commerce website",
+    "id": "login-test",
+    "keyword": "Feature",
+    "uri": "src/test/java/resources/featurefile/login.feature"
+  }
+]
